@@ -65,7 +65,6 @@ The instructions for this mini project are divided into the following subsection
     * Convert the "contact_id" column to the integer type.
     * Split each "name" column value into a first and a last name, and place each in a new column.
     * Clean and then export the DataFrame as contacts.csv and save it to your GitHub repository.
-    ![Screenshot 2025-01-21 at 19 51 55](https://github.com/user-attachments/assets/e49b36f6-49eb-47c5-8332-3bc606a7f2d5)
 4. Check that your final DataFrame resembles the one in the following image:
     ![Screenshot 2025-01-21 at 20 06 56](https://github.com/user-attachments/assets/18fce8bc-b40a-441d-be0d-da6eeafb0201)
 
